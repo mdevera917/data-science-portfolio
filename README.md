@@ -1,4 +1,4 @@
-# DataSciencePortfolioNew
+# data-science-portfolio
 Welcome to my data science portfolio
 
 I am a student at Cal State East Bay pursuing a BS in Data Science
