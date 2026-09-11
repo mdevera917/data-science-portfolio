@@ -12,4 +12,4 @@ This Python program asks the user for their name and displays a personalized gre
 -Markdown
 
 ## What I learned
-[Complete this section after finishing activity.]
+I learned how to create a project folder and Python file in GitHub.
