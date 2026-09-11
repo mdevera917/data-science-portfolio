@@ -1,5 +1,5 @@
 # Data Science Profession
-This folder contains activities from DATA 130 class
+This folder contains activities from my DATA 130 class.
 
 ## Topics
 -Career Exploration
